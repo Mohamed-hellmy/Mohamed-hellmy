@@ -1,13 +1,14 @@
 ## 🚀 About Me
 
-👋 Hi, I'm Mohamed Hellmy!  
-💻 Full Stack Developer | 🚀 .NET Expert | 🎯 Radar Systems Specialist  
+ **💻 Full Stack Developer | 🎯 .NET Expert | 📡 Radar Systems Specialist**  
 
-I'm a **Full Stack Developer** with **7+ years of experience** in **radar systems and .NET technologies**.  
-🔹 Expert in designing and implementing **scalable, secure, and high-performance software**.  
-🔹 Proven track record in **optimizing system performance with zero downtime**.  
-🔹 Skilled at **leading teams** across multiple fields.  
-🔹 Passionate about **developing applications that create value** through my **technical and leadership skills**.  
+💡 **7+ years of experience** in **Radar Systems & .NET Technologies**.  
+⚡ **Expert in designing & optimizing high-performance software**.  
+🛠 Skilled in **leading and mentoring teams** across various technical fields.  
+🔍 Passionate about **problem-solving, AI, and system optimization**.  
+
+📌 **Currently learning:** Quantum Computing & High-Performance Computing.  
+🎯 **Looking for opportunities in:** Software Development.  
 
 ## 🛠 Tech Stack
 
@@ -60,11 +61,11 @@ I'm a **Full Stack Developer** with **7+ years of experience** in **radar system
 
 
 ### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hellmy)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedhellmy1010@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.hellmy.3)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_7ellmy/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MohamedHellmy2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohamed-hellmy)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedhellmy1010@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.hellmy.3)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_7ellmy/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MohamedHellmy2)
 
 ---
 🚀 Always Learning & Exploring New Technologies!
