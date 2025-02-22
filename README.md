@@ -68,3 +68,7 @@ I'm a **Full Stack Developer** with **7+ years of experience** in **radar system
 
 ---
 🚀 Always Learning & Exploring New Technologies!
+
+
+### 🐍 GitHub Contribution Snake:
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
