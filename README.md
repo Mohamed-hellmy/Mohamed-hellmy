@@ -69,5 +69,4 @@ I'm a **Full Stack Developer** with **7+ years of experience** in **radar system
 ---
 🚀 Always Learning & Exploring New Technologies!
 
-
-![snake gif](https://github.com/mohamedhellmy/mohamedhellmy/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/mohamedhellmy/mohamedhellmy/blob/output/github-contribution-grid-snake.svg)
