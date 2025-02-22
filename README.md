@@ -61,7 +61,7 @@ I'm a **Full Stack Developer** with **7+ years of experience** in **radar system
 
 ### 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hellmy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhellmy1010@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedhellmy1010@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mohamed.hellmy.3)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_7ellmy/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MohamedHellmy2)
@@ -70,5 +70,4 @@ I'm a **Full Stack Developer** with **7+ years of experience** in **radar system
 🚀 Always Learning & Exploring New Technologies!
 
 
-### 🐍 GitHub Contribution Snake:
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mohamedhellmy/mohamedhellmy/blob/output/github-contribution-grid-snake.svg)
