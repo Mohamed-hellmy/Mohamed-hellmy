@@ -1,7 +1,5 @@
 ### Hi there, I'm Mohamed Hellmy! 👋
 
-![Profile Banner]([[https://your-image-url.com](https://github.com/Mohamed-hellmy/Mohamed-hellmy/issues/1#issue-2870651231)](https://private-user-images.githubusercontent.com/71606023/415897467-c6266d65-1720-4641-a975-c734de7ee09c.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyMjA0ODcsIm5iZiI6MTc0MDIyMDE4NywicGF0aCI6Ii83MTYwNjAyMy80MTU4OTc0NjctYzYyNjZkNjUtMTcyMC00NjQxLWE5NzUtYzczNGRlN2VlMDljLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMlQxMDI5NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYzVhNjk2OWEyZWMxOTcwMGNlMDM1YzRkZGEzOTQ1MmQ1OTU4M2Y5YmVkNGE1Njk5MzcwMGJmODkwNjI3NWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qrq-Fm90bhC_JTBBuZDpl289cVTG8KC7nnvfynH5fKk))
-
 I'm a **High Performance Computing (HPC) & Quantum Computing Student** with a strong background in **Radar Systems, C++, and Full Stack .NET Development**. Passionate about cutting-edge technology, parallel computing, and optimizing system performance.
 
 ### 🚀 About Me:
