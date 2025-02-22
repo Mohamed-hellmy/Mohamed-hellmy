@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-👋 Hi, I'm Mohamed!  
+👋 Hi, I'm Mohamed Hellmy!  
 💻 Full Stack Developer | 🚀 .NET Expert | 🎯 Radar Systems Specialist  
 
 I'm a **Full Stack Developer** with **7+ years of experience** in **radar systems and .NET technologies**.  
